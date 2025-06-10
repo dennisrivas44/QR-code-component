@@ -37,7 +37,7 @@ p{
 }
 #subheading{
     font-weight: 400;
-    color: var(--slate300);
+    color: var(--slate500);
     font-size: 15px;
     padding: 0px 1.5rem
 }
