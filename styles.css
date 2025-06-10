@@ -28,6 +28,7 @@ body{
 }
 p{
     font-family: outfit;
+    padding: 0px 1rem;
 }
 #title{
     font-weight: 700;
@@ -38,6 +39,7 @@ p{
     font-weight: 400;
     color: var(--slate300);
     font-size: 15px;
+    padding: 0px 1.5rem
 }
 .attribution { 
     font-size: 11px; text-align: center;
